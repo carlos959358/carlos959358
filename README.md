@@ -29,4 +29,4 @@ More information can be found in the [github-readme-stats repo](https://github.c
 
 ### 🌐 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlos-beltran-sanz)
-- 📧 cabesa@edem.es
+- 📧 carlosbeltran228@gmail.com
